@@ -1,0 +1,123 @@
+{
+  "auth_test": {
+    "ok": true,
+    "url": "https://forge2mohdsadique.slack.com/",
+    "team": "Forge2 Mohd Sadique",
+    "user": "forge2agent",
+    "team_id": "T0BD1RN79NJ",
+    "user_id": "U0BCXQCP98T",
+    "bot_id": "B0BD22L9YUE",
+    "is_enterprise_install": false
+  },
+  "post_message": {
+    "ok": true,
+    "channel": "C0BCNJ6464F",
+    "ts": "1782029083.002359",
+    "message": {
+      "user": "U0BCXQCP98T",
+      "type": "message",
+      "ts": "1782029083.002359",
+      "bot_id": "B0BD22L9YUE",
+      "app_id": "A0BCNJVATDM",
+      "text": "round-trip test :white_check_mark:",
+      "team": "T0BD1RN79NJ",
+      "bot_profile": {
+        "id": "B0BD22L9YUE",
+        "app_id": "A0BCNJVATDM",
+        "user_id": "U0BCXQCP98T",
+        "name": "forge2agent",
+        "icons": {
+          "image_36": "https://a.slack-edge.com/80588/img/plugins/app/bot_36.png",
+          "image_48": "https://a.slack-edge.com/80588/img/plugins/app/bot_48.png",
+          "image_72": "https://a.slack-edge.com/80588/img/plugins/app/service_72.png"
+        },
+        "deleted": false,
+        "updated": 1782028833,
+        "team_id": "T0BD1RN79NJ"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dV0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "round-trip test "
+                },
+                {
+                  "type": "emoji",
+                  "name": "white_check_mark",
+                  "unicode": "2705"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "conversations_history": {
+    "ok": true,
+    "messages": [
+      {
+        "user": "U0BCXQCP98T",
+        "type": "message",
+        "ts": "1782029083.002359",
+        "bot_id": "B0BD22L9YUE",
+        "app_id": "A0BCNJVATDM",
+        "text": "round-trip test :white_check_mark:",
+        "team": "T0BD1RN79NJ",
+        "bot_profile": {
+          "id": "B0BD22L9YUE",
+          "deleted": false,
+          "name": "forge2agent",
+          "updated": 1782028833,
+          "app_id": "A0BCNJVATDM",
+          "user_id": "U0BCXQCP98T",
+          "icons": {
+            "image_36": "https://a.slack-edge.com/80588/img/plugins/app/bot_36.png",
+            "image_48": "https://a.slack-edge.com/80588/img/plugins/app/bot_48.png",
+            "image_72": "https://a.slack-edge.com/80588/img/plugins/app/service_72.png"
+          },
+          "team_id": "T0BD1RN79NJ"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "t8hv",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "round-trip test "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "white_check_mark",
+                    "unicode": "2705"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtype": "channel_join",
+        "user": "U0BCXQCP98T",
+        "text": "<@U0BCXQCP98T> has joined the channel",
+        "type": "message",
+        "ts": "1782029066.632629"
+      }
+    ],
+    "has_more": false,
+    "pin_count": 0,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+  }
+}
