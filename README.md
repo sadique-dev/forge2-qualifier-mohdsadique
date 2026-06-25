@@ -3,10 +3,11 @@
 A tiny Trello-style Kanban board built during the Forge 2 online qualifier using a cooperative two-agent system: Hermes as the brain and OpenClaw as the hands, wired through Slack.
 
 ### 🌐 Live Deployment
-*   **Frontend (Vercel):** [https://forge2-qualifier-mohdsadique.vercel.app](https://forge2-qualifier-mohdsadique.vercel.app)
-*   **Backend API (Render/Railway):** [https://forge2-qualifier-mohdsadique.onrender.com](https://forge2-qualifier-mohdsadique.onrender.com)
+*   **Frontend (Vercel):** [https://frontend-rosy-eight-61.vercel.app](https://frontend-rosy-eight-61.vercel.app)
+*   **Backend API (Render):** [https://forge2-qualifier-mohdsadique.onrender.com](https://forge2-qualifier-mohdsadique.onrender.com)
 
 ---
+
 
 
 ## Features
