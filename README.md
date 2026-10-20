@@ -3,7 +3,7 @@
 An advanced, project-management application built during the Forge 2 Online Qualifier. This workspace represents a highly optimized, production-ready system co-authored by **Mohd Sadique** and a cooperative, dual-agent AI team (Hermes as the planning orchestrator, OpenClaw as the coding runner) wired dynamically through Slack.
 
 ### 🌐 Live Production Deployments
-*   **Frontend (Vercel):** [https://frontend-rosy-eight-61.vercel.app](https://frontend-rosy-eight-61.vercel.app)
+*   **Frontend (Vercel):** frontend-kwywl9y93-mohdsadique2026-5003s-projects.vercel.app
 *   **Backend API (Render Docker):** [https://forge2-qualifier-mohdsadique.onrender.com/api](https://forge2-qualifier-mohdsadique.onrender.com/api)
 
 ---
